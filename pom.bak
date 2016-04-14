@@ -10,23 +10,6 @@
 	<modules>
 		<module>netty</module>
 		<module>thrift</module>
-		<module>dubbo</module>
-		<module>activemq</module>
-		<module>zookeeper</module>
-		<module>consul</module>
-		<module>jfinal</module>
-		<module>common</module>
-		<module>kafka</module>
-		<module>mybatis</module>
-		<module>rabbitmq</module>
-		<module>shiro</module>
-		<module>solr</module>
-		<module>webservice</module>
-		<module>ziabbix</module>
-		<module>zipkin</module>
-		<module>zuul</module>
-		<module>guava</module>
-		<module>bitronix</module>
 	</modules>
 
 	<dependencyManagement>
